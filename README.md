@@ -1,4 +1,4 @@
- ### Hi there 👋
+ README.md Information Technology Concepts for Programmers.
 
 <!--
 **eeCeeC/eeCeeC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
