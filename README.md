@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 A visualization of a Network diagram created using Viso.
+The implementation of the class (main method) where objects are created or instantiated from the class using python code in w3schools.
