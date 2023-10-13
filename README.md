@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 A visualization of a Network diagram created using Viso.
 The implementation of the class (main method) where objects are created or instantiated from the class using python code in w3schools.
+Created a HTML in W3School to include html,title, and body using the h tag. Added an additional heading using a different heading tag. Paragraph with text, and theme for web initiative.Included hyperlink with SECUREBYTE logo. Added an additinal tag.
